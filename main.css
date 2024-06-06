@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Poppins' sans-serif;
+}
+
+.navbar{
+    background-color: #880021;
+}
+
+.navbar .nav .nav-link,
+#footer .row a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#footer .row ul li{
+    list-style: none;
+}
+
+.text-red{
+    color: #F80032;
+}
+
+#video{
+    background-color: #F80032;
+}
+
+iframe{
+    height: 600px;
+}
+
+.text-redzin{
+    color: #880021;
+}
+
+.background-redzin{
+    background-color: #880021;
+}
+
+#imglogo{
+    max-height: 100px;
+}
+
+.carousel{
+    max-height: 700px;
+}
+
+.text-colered{
+    color: #000;
+}
+
+.section-title{
+    font-weight: 300;
+}
+
+.nav-americanas .nav-link.active{
+    background-color: #F80032;
+    color: #fff;
+}
+
+.nav-americanas .nav-link:hover{
+    background-color: #F80032;
+    color: #fff;
+}
+
+.navbar .nav .nav-item button{
+    background-color: #63061d;
+    color: #fff;
+}
+
+.navbar .nav .nav-item button:hover{
+    background-color: #af032e;
+}
+
+#video button,
+.navbar .nav .nav-link.active{
+    background-color: #63061d;
+    color: #fff;
+}
+
+#video button:hover,
+.navbar .nav .nav-link.active:hover,
+.navbar .nav .nav-link:hover{
+    background-color: #af032e;
+}
+
+#footer{
+    background-color: #333333;
+}
+
+@media (max-width: 767px){
+    .carousel-item img{
+        height: 300px;
+    }
+}
