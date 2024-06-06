@@ -1,5 +1,7 @@
 # Americanas Landing Page
 
+![screencapture-americanas-bs-vercel-app-2024-06-06-19_32_23](https://github.com/AlvesThiago/AmericanasBS/assets/77080899/3361821e-eeb2-4d67-9913-2905e98e007b)
+
 Este repositório contém o código-fonte para uma landing page da Americanas Marketplace. O objetivo desta página é fornecer informações detalhadas sobre como vender na plataforma, destacando os benefícios e requisitos para novos vendedores.
 
 ## Estrutura do Projeto
